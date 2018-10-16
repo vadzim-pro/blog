@@ -1,5 +1,5 @@
 
 mainmenu:
   home:
-    url: "/vadzim-pro.github.io"
+    url: "/"
     text: "Back to the main page"
