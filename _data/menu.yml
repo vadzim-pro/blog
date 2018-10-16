@@ -1,10 +1,6 @@
 
 mainmenu:
   home:
-    url: "/"
+    url: "https://vadzim-pro.github.io/"
     text: "Home"
     icon_class: "fa-home"
-  aboutme:
-    url: "/about/"
-    text: "About Me"
-    icon_class: "fa-info-circle"
